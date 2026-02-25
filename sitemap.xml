@@ -6,6 +6,10 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://ctheworld.org/post/chapter-2/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://ctheworld.org/post/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
